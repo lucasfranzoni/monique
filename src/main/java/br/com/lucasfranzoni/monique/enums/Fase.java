@@ -22,7 +22,7 @@ public enum Fase {
     FASE10(10L, "there's no such thing as a dragon;theres no such thing as a dragon;there'snosuchthingasadragon;theresnosuchthingasadragon;dragão é algo que não existe;dragao e algo que nao existe;dragãoéalgoquenãoexiste;dragaoealgoquenaoexiste", "fase10"),
     FASE11(11L, "dora aventureira;doraaventureira;dora, a aventureira;dora,aaventureira;dora a aventureira;doraaaventureira", "fase11"),
     FASE12(12L, "jaqueta azul;jaquetaazul", "fase12"),
-    FINAL(13L, "sim;comcerteza;com certeza;comcertezasim;com certeza sim;obvio;obvio que sim;obvioquesim;milvezessim;mil vezes sim;claro;claro que sim;claroquesim", "final");
+    FINAL(13L, "sim;comcerteza;com certeza;comcertezasim;com certeza sim;obvio;obvio que sim;obvioquesim;milvezessim;mil vezes sim;claro;claro que sim;claroquesim;quero;querosim.quero sim", "final");
 
     private final Long numero;
     private final List<String> respostas;
